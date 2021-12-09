@@ -43,7 +43,7 @@ namespace SendMessage
              <soap:Body>  
                 <SendMessage xmlns=""http://www.korbitec.com/"">
 <message xmlns=""http://schemas.korbitecgateway.co.za/message.xsd"">
-        < GeneratorApplication>BankApp</GeneratorApplication>
+        <GeneratorApplication>BankApp</GeneratorApplication>
         <GeneratorVersion>-</GeneratorVersion>
         <MatterKref>4cc0a874-d87f-41b8-97ce-e4ba8e6c1539</MatterKref>
         <SenderKref>afa66508-71e5-45df-9746-031dc1758aa0</SenderKref>
@@ -55,188 +55,188 @@ namespace SendMessage
         <Institution>TestInstitution</Institution>
         <Instruction>transferRegistration</Instruction>
         <Type>initialInstruction</Type>
-        <DateCreated>2011 - 03 - 31T17: 23:35.3932804 + 02:00</DateCreated>
-        <DateActioned>2011 - 03 - 31T17: 23:35.3932804 + 02:00</DateActioned>
+        <DateCreated>2011-03-31T17:23:35.3932804+02:00</DateCreated>
+        <DateActioned>2011-03-31T17:23:35.3932804+02:00</DateActioned>
         <Body xmlns = ""https://korbitecgateway.korbitec.com/schemas/transfer/initialInstruction_1.1.xsd
-"" branchName=""Sea Point"" contactName=""Susan Smith""> < Data >
- < Transfer >
- < PurchasePrice > 750000 </ PurchasePrice >
- < DateOfSale > 2008 - 04 - 12T12: 00:00Z </ DateOfSale >
- < DateOfTransfer > 2008 - 07 - 01T12: 00:00Z </ DateOfTransfer >
- < DepositAmount > 10000.00 </ DepositAmount >
- < DepositDue > 2008 - 04 - 12T12: 00:00Z </ DepositDue >
- < AdditionalInstructions > Microsoft's new Windows ad made its
+"" branchName=""Sea Point"" contactName=""Susan Smith""> <Data>
+ <Transfer>
+ <PurchasePrice> 750000 </PurchasePrice>
+ <DateOfSale> 2008-04-12T12:00:00Z </DateOfSale>
+ <DateOfTransfer> 2008-07-01T12:00:00Z </DateOfTransfer>
+ <DepositAmount> 10000.00 </DepositAmount>
+ <DepositDue> 2008-04-12T12:00:00Z </DepositDue>
+ <AdditionalInstructions> Microsoft's new Windows ad made its
  debut during the Grammy Awards on Sunday.It stars a
- 4 - year - old cutie named Kylie (Silverlight required) showing
+ 4-year-old cutie named Kylie (Silverlight required) showing
  how easy it is to use Windows Live Photo Gallery to edit
  and share photos.And while it's impressive that little
  Kylie is able to transfer a snapshot of her pet fish from
- her camera to a PC, color - correct it, and e-mail it to her
+ her camera to a PC, color-correct it, and e-mail it to her
    family, what's truly amazing is that the toddler was also
  apparently able to read, understand, and accept Windows
  Live's Terms of Use and Privacy Policy. (But minors can't
  legally execute contracts, can
- they ?)</ AdditionalInstructions >
+ they ?)</AdditionalInstructions>
  
-  < AgencyDetails >
+  <AgencyDetails>
  
-  < Name > Pam Golding </ Name >
+  <Name> Pam Golding </Name>
     
-     < Branch > Sea Point </ Branch >
+     <Branch> Sea Point </Branch>
        
-        < Contact > Susan Smith </ Contact >
+        <Contact> Susan Smith </Contact>
           
-           < Reference > PG562998 </ Reference >
+           <Reference> PG562998 </Reference>
           
-           < Email > rudiv@korbitec.com </ Email >
+           <Email> rudiv@korbitec.com </Email>
              
-              < PhoneNumber > 0836549874 </ PhoneNumber >
+              <PhoneNumber> 0836549874 </PhoneNumber>
              
-              < FaxNumber > 0214454569 </ FaxNumber >
+              <FaxNumber> 0214454569 </FaxNumber>
              
-              < PhysicalAddress />
+              <PhysicalAddress/>
              
-              < PostalAddress />
+              <PostalAddress/>
              
-              </ AgencyDetails >
+              </AgencyDetails>
              
-              < Parties >
+              <Parties>
              
-              < Individuals >
+              <Individuals>
              
-              < Individual >
+              <Individual>
              
-              < Role > Purchasers Spouse </ Role >
+              <Role> Purchasers Spouse </Role>
                 
-                 < FullName > Mary Bloggs </ FullName >
+                 <FullName> Mary Bloggs </FullName>
                    
-                    < Title > Mrs </ Title >
+                    <Title> Mrs </Title>
                    
-                    < Initials > M </ Initials >
+                    <Initials> M </Initials>
                    
-                    < LastName > Bloggs </ LastName >
+                    <LastName> Bloggs </LastName>
                    
-                    < FirstNames > Mary </ FirstNames >
+                    <FirstNames> Mary </FirstNames>
                    
-                    < PostalAddress > PO 36789 Newlands 7890 </ PostalAddress >
+                    <PostalAddress> PO 36789 Newlands 7890 </PostalAddress>
                       
-                       < ResidentialAddress />
+                       <ResidentialAddress/>
                       
-                       < HomePhone > 0214569874 </ HomePhone >
+                       <HomePhone> 0214569874 </HomePhone>
                       
-                       < WorkPhone />
+                       <WorkPhone/>
                       
-                       < CellPhone > 0836541235 </ CellPhone >
+                       <CellPhone> 0836541235 </CellPhone>
                       
-                       < IDType > Identity Document </ IDType >
+                       <IDType> Identity Document </IDType>
                          
-                          < IDNumber > 7512235056089 </ IDNumber >
+                          <IDNumber> 7512235056089 </IDNumber>
                          
-                          < IncomeTaxNumber > SAR235476457 / 7 </ IncomeTaxNumber >
+                          <IncomeTaxNumber> SAR235476457 / 7 </IncomeTaxNumber>
                          
-                          < MaritalStatus > ANC </ MaritalStatus >
+                          <MaritalStatus> ANC </MaritalStatus>
                          
-                          < PermanentRes > 0 </ PermanentRes >
+                          <PermanentRes> 0 </PermanentRes>
                          
-                          < Email > Mary@email.address.com </ Email >
+                          <Email> Mary@email.address.com </Email>
                             
-                             </ Individual >
+                             </Individual>
                             
-                             </ Individuals >
+                             </Individuals>
                             
-                             </ Parties >
+                             </Parties>
                             
-                             < PropertyCollection >
+                             <PropertyCollection>
                             
-                             < Properties >
+                             <Properties>
                             
-                             < Property >
+                             <Property>
                             
-                             < PropertyType > Sectional </ PropertyType >
+                             <PropertyType> Sectional </PropertyType>
                             
-                             < ErfNumber />
+                             <ErfNumber/>
                             
-                             < PropertyDescription > Unit 21 SS High Cap Three,
-                                Situated at Vredehoek</ PropertyDescription >
+                             <PropertyDescription> Unit 21 SS High Cap Three,
+                                Situated at Vredehoek</PropertyDescription>
                                
-                                < StreetAddress > 3a Upland Avenue, Devils Peak,
- 8000 </ StreetAddress >
- < Extent > 105 </ Extent >
- < ExtentUnits > Square Metres </ ExtentUnits >
+                                <StreetAddress> 3a Upland Avenue, Devils Peak,
+ 8000 </StreetAddress>
+ <Extent> 105 </Extent>
+ <ExtentUnits> Square Metres </ExtentUnits>
    
-    < SectionalTitleDetails >
+    <SectionalTitleDetails>
    
-    < SectionTitleUnitNumber > 21 </ SectionTitleUnitNumber >
+    <SectionTitleUnitNumber> 21 </SectionTitleUnitNumber>
    
-    < ComplexName > SS HIGH CAPE THREE </ ComplexName >
+    <ComplexName> SS HIGH CAPE THREE </ComplexName>
       
-       < ExclusiveUseAreas >
+       <ExclusiveUseAreas>
       
-       < EUA >
+       <EUA>
       
-       < Description > Describe this </ Description >
+       <Description> Describe this </Description>
          
-          < Extent > 208 </ Extent >
+          <Extent> 208 </Extent>
          
-          < ExtentUnits > Square Metres </ ExtentUnits >
+          <ExtentUnits> Square Metres </ExtentUnits>
             
-             < HeldUnder />
+             <HeldUnder/>
             
-             </ EUA >
+             </EUA>
             
-             </ ExclusiveUseAreas >
+             </ExclusiveUseAreas>
             
-             </ SectionalTitleDetails >
+             </SectionalTitleDetails>
             
-             </ Property >
+             </Property>
             
-             </ Properties >
+             </Properties>
             
-             </ PropertyCollection >
+             </PropertyCollection>
             
-             < ExistingBonds >
+             <ExistingBonds>
             
-             < ExistingBond >
+             <ExistingBond>
             
-             < BondHolder > ABSA </ BondHolder >
+             <BondHolder> ABSA </BondHolder>
             
-             < Branch > Sea Point </ Branch >
+             <Branch> Sea Point </Branch>
                
-                < AccountNumber > 34634673547001 </ AccountNumber >
+                <AccountNumber> 34634673547001 </AccountNumber>
                
-                </ ExistingBond >
+                </ExistingBond>
                
-                </ ExistingBonds >
+                </ExistingBonds>
                
-                < NewBond >
+                <NewBond>
                
-                < Channel > Some Random Channel String </ Channel >
+                <Channel> Some Random Channel String </Channel>
                   
-                   < ContactName > Some Random Contact Name String
- thingy </ ContactName >
- < ContactNumber > 1234567890 </ ContactNumber >
- < BondGrantDate > 2008 - 04 - 12T12: 00:00Z </ BondGrantDate >
+                   <ContactName> Some Random Contact Name String
+ thingy </ContactName>
+ <ContactNumber> 1234567890 </ContactNumber>
+ <BondGrantDate> 2008-04-12T12:00:00Z </BondGrantDate>
         
-         < BondAttorneyName > Some Random Bond Attorney Name String
- thingy </ BondAttorneyName >
- < BondAttorneyPhoneNumber > 1234567890 </ BondAttorneyPhoneNumber >
- </ NewBond >
- < TransferringAttorney >
- < Name > Bisset Boemke Macblain</ Name >
+         <BondAttorneyName> Some Random Bond Attorney Name String
+ thingy </BondAttorneyName>
+ <BondAttorneyPhoneNumber> 1234567890 </BondAttorneyPhoneNumber>
+ </NewBond>
+ <TransferringAttorney>
+ <Name> Bisset Boemke Macblain</Name>
    
-    < PhoneNumber > 0214569874 </ PhoneNumber >
+    <PhoneNumber> 0214569874 </PhoneNumber>
    
-    </ TransferringAttorney >
+    </TransferringAttorney>
    
-    </ Transfer >
+    </Transfer>
    
-    </ Data ></Body>
+    </Data></Body>
       </message>
              
  
 
    
-               </ SendMessage >
+               </SendMessage>
               </soap:Body>  
             </soap:Envelope>");
             using ( Stream stream = request.GetRequestStream () )
@@ -258,7 +258,7 @@ namespace SendMessage
                     var query = from c in asdac.Root.Attributes () select c.Value;
                     //.Descendants ("AttorneyItem")
                     //where c.Attribute ("Kref") !=null
-                    //select c.Element ("Name").Value + " " +
+                    //select c.Element ("Name").Value+" " +
                     //       c.Element ("Region").Value;
 
                     Console.WriteLine (query);
